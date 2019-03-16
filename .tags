@@ -1,0 +1,54 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Refactoring with Modules	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^# Refactoring with Modules$/;"	function	line:1
+Objectives	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+Overview	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^## Overview$/;"	function	line:8
+Configuring our Environment	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^## Configuring our Environment$/;"	function	line:29
+Instructions	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:43
+A Note on Refactoring Practices	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^### A Note on Refactoring Practices$/;"	function	line:45
+Step 1: Class Methods	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^### Step 1: Class Methods$/;"	function	line:65
+The `Memorable` Module	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### The `Memorable` Module$/;"	function	line:80
+Advanced: The `find_by_name` Method	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### Advanced: The `find_by_name` Method$/;"	function	line:114
+The `Findable` Module	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### The `Findable` Module$/;"	function	line:139
+=>	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#=> #<Artistx038230sdcmdn3872>$/;"	function	line:147
+Step 2: Instance Methods	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^### Step 2: Instance Methods$/;"	function	line:186
+The `Paramable` Module	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### The `Paramable` Module$/;"	function	line:198
+Advanced: The `to_param` Method	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### Advanced: The `to_param` Method$/;"	function	line:217
+Bonus: Refactoring the `.initialize` Method	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^### Bonus: Refactoring the `.initialize` Method$/;"	function	line:235
+Recognizing Repetition	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### Recognizing Repetition$/;"	function	line:237
+`lib/song.rb`	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### `lib\/song.rb`$/;"	function	line:241
+`lib/artist.rb`	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### `lib\/artist.rb`$/;"	function	line:249
+Abstracting Away Repetition	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### Abstracting Away Repetition$/;"	function	line:275
+`lib/song.rb`	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### `lib\/song.rb`$/;"	function	line:279
+`lib/artist.rb`	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### `lib\/artist.rb`$/;"	function	line:287
+`lib/song.rb`	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### `lib\/song.rb`$/;"	function	line:300
+`lib/artist.rb`	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### `lib\/artist.rb`$/;"	function	line:308
+Extracting Repetition	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### Extracting Repetition$/;"	function	line:345
+Nesting Modules	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^#### Nesting Modules$/;"	function	line:360
+Conclusion	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/README.md	/^## Conclusion$/;"	function	line:473
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+Song	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/song.rb	/^class Song$/;"	class	line:3
+initialize	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/song.rb	/^  def initialize$/;"	method	line:9	class:Song
+find_by_name	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/song.rb	/^  def self.find_by_name(name)$/;"	singleton method	line:13	class:Song
+all	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/song.rb	/^  def self.all$/;"	singleton method	line:17	class:Song
+reset_all	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/song.rb	/^  def self.reset_all$/;"	singleton method	line:21	class:Song
+count	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/song.rb	/^  def self.count$/;"	singleton method	line:25	class:Song
+artist=	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/song.rb	/^  def artist=(artist)$/;"	method	line:29	class:Song
+to_param	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/song.rb	/^  def to_param$/;"	method	line:33	class:Song
+Artist	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/artist.rb	/^class Artist$/;"	class	line:3
+initialize	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/artist.rb	/^  def initialize$/;"	method	line:9	class:Artist
+find_by_name	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/artist.rb	/^  def self.find_by_name(name)$/;"	singleton method	line:14	class:Artist
+all	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/artist.rb	/^  def self.all$/;"	singleton method	line:18	class:Artist
+reset_all	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/artist.rb	/^  def self.reset_all$/;"	singleton method	line:22	class:Artist
+count	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/artist.rb	/^  def self.count$/;"	singleton method	line:26	class:Artist
+add_song	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/artist.rb	/^  def add_song(song)$/;"	method	line:30	class:Artist
+add_songs	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/artist.rb	/^  def add_songs(songs)$/;"	method	line:35	class:Artist
+to_param	/Users/manon/Development/code/artist-song-modules-london-web-career-031119/lib/artist.rb	/^  def to_param$/;"	method	line:39	class:Artist
